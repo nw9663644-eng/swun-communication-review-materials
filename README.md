@@ -4,6 +4,13 @@
 
 ## 如何下载
 
+推荐优先使用百度网盘下载，速度通常比 GitHub 更稳定：
+
+- 百度网盘链接：https://pan.baidu.com/s/1uGQa_IZQhPVVyg4bTc0jGg?pwd=8888
+- 提取码：8888
+
+GitHub 备用下载方法：
+
 因为资料大多是 `.zip` 压缩包，并且使用 Git LFS 存储，GitHub 网页可能无法直接预览文件内容。
 
 单个文件下载方法：
